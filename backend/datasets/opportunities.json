@@ -1,0 +1,324 @@
+[
+  {
+    "id": "intern-g-step-2026",
+    "batch_reach": [
+      "2026"
+    ],
+    "type": "Internship",
+    "title": "Google STEP Internship (India)",
+    "provider": "Google",
+    "stipend_reward": "High (Competitive + Housing)",
+    "application_link": "https://www.google.com/about/careers/applications/students/",
+    "deadlines": {
+      "application": "2025-10-15T23:59:59Z"
+    },
+    "difficulty": "Hard",
+    "mode": "In-Person",
+    "requirements": {
+      "skills": [
+        "Data Structures",
+        "Algos",
+        "C++/Java"
+      ],
+      "eligibility": "2nd/3rd year UG CS students graduating in 2026"
+    },
+    "intelligence": {
+      "why_it_matters": "Direct path to a Pre-Placement Interview for a full-time SWE role at Google.",
+      "next_action": "Perfect your LeetCode Mediums and update your resume for referrals.",
+      "prep_tip": "Focus heavily on Graph and Tree traversals for the phone screening stage."
+    }
+  },
+  {
+    "id": "intern-iitk-surge-2026",
+    "batch_reach": [
+      "2026",
+      "2027"
+    ],
+    "type": "Internship",
+    "title": "IIT Kanpur SURGE 2026",
+    "provider": "IIT Kanpur",
+    "stipend_reward": "₹12,500 + Research Certificate",
+    "application_link": "https://www.iitk.ac.in/surge/",
+    "deadlines": {
+      "application": "2026-02-22T23:59:59Z"
+    },
+    "difficulty": "Hard",
+    "mode": "In-Person",
+    "requirements": {
+      "skills": [
+        "Research",
+        "Python/ML",
+        "Mathematical Modeling"
+      ],
+      "eligibility": "UG students from SAARC countries with high CGPA"
+    },
+    "intelligence": {
+      "why_it_matters": "One of India's most prestigious research internships; perfect for students aiming for MS/PhD or R&D roles.",
+      "next_action": "Submit a strong research proposal and get a recommendation letter from your HOD.",
+      "prep_tip": "Focus on your 'Statement of Purpose'; they value interest in specific research labs over just coding."
+    }
+  },
+  {
+    "id": "intern-cdot-2026",
+    "batch_reach": [
+      "2026"
+    ],
+    "type": "Internship",
+    "title": "C-DOT Paid Internship Scheme",
+    "provider": "C-DOT (Govt of India)",
+    "stipend_reward": "₹10,000 - ₹20,000 per month",
+    "application_link": "https://www.cdot.in/cdotweb/web/internship.php",
+    "deadlines": {
+      "application": "2026-02-28T23:59:59Z"
+    },
+    "difficulty": "Medium",
+    "mode": "In-Person/Hybrid",
+    "requirements": {
+      "skills": [
+        "Telecommunications",
+        "Embedded Systems",
+        "Java/Python"
+      ],
+      "eligibility": "Students from Top 30 Engineering Institutes in India"
+    },
+    "intelligence": {
+      "why_it_matters": "Gain experience in Telecom R&D with a government body; great for hardware-software integration profiles.",
+      "next_action": "Check if your college is in the top 30 list and apply through the official NATS portal.",
+      "prep_tip": "Review basics of Computer Networks and OSI layers; they often ask about communication protocols."
+    }
+  },
+  {
+    "id": "intern-outreachy-2026-may",
+    "batch_reach": [
+      "2026",
+      "2027"
+    ],
+    "type": "Internship",
+    "title": "Outreachy May 2026 Cohort",
+    "provider": "Outreachy",
+    "stipend_reward": "$7,000 Total Stipend",
+    "application_link": "https://www.outreachy.org/apply/",
+    "deadlines": {
+      "application": "2026-02-13T23:59:59Z"
+    },
+    "difficulty": "Hard",
+    "mode": "Remote",
+    "requirements": {
+      "skills": [
+        "Open Source",
+        "Git",
+        "Collaboration"
+      ],
+      "eligibility": "Students subject to systemic bias in tech; Remote global"
+    },
+    "intelligence": {
+      "why_it_matters": "High-stipend remote internship with global open-source communities (GNOME, Linux, etc.).",
+      "next_action": "Complete the initial application before the Feb 13 deadline to enter the contribution period.",
+      "prep_tip": "Contribution is key. Start interacting with mentors early in the mailing lists or Slack/Zulip."
+    }
+  },
+  {
+    "id": "hack-sih-2026",
+    "batch_reach": [
+      "2026",
+      "2027"
+    ],
+    "type": "Hackathon",
+    "title": "Smart India Hackathon (SIH) 2026",
+    "provider": "Govt of India",
+    "stipend_reward": "₹1,00,000 + Ministry Networking",
+    "application_link": "https://www.sih.gov.in/",
+    "deadlines": {
+      "application": "2026-09-30T23:59:59Z",
+      "event": "2026-12-15T23:59:59Z"
+    },
+    "difficulty": "Hard",
+    "mode": "Hybrid",
+    "requirements": {
+      "skills": [
+        "Full Stack",
+        "AI/ML",
+        "Mobile Dev"
+      ],
+      "eligibility": "Enrolled UG/PG students in Indian Institutes"
+    },
+    "intelligence": {
+      "why_it_matters": "The most prestigious Govt-linked hackathon in India; massive resume weight.",
+      "next_action": "Form a team of 6 and select a problem statement from the official portal.",
+      "prep_tip": "Learn to build a production-ready MVP; judges value scalability over UI."
+    }
+  },
+  {
+    "id": "hack-agentic-30",
+    "batch_reach": [
+      "2026",
+      "2027"
+    ],
+    "type": "Hackathon",
+    "title": "Agentic India 30",
+    "provider": "Reskill / AI Community",
+    "stipend_reward": "Equity + Cash Prizes",
+    "application_link": "https://reskilll.com/hack/agentic30",
+    "deadlines": {
+      "application": "2026-02-25T23:59:59Z"
+    },
+    "difficulty": "Medium",
+    "mode": "Remote",
+    "requirements": {
+      "skills": [
+        "GenAI",
+        "Agents",
+        "Python"
+      ],
+      "eligibility": "Open to all students interested in AI Automation"
+    },
+    "intelligence": {
+      "why_it_matters": "Hyper-focused on the hottest tech trend: AI Agents. Great for showing you are ahead of the curve.",
+      "next_action": "Study LangChain or CrewAI frameworks to build autonomous agents.",
+      "prep_tip": "Focus on multi-agent collaboration use cases like automated research or coding assistants."
+    }
+  },
+  {
+    "id": "hack-iit-mandi-2026",
+    "batch_reach": [
+      "2026"
+    ],
+    "type": "Hackathon",
+    "title": "Weelliptic Hackathon - Xpecto'26",
+    "provider": "IIT Mandi",
+    "stipend_reward": "₹50,000 + IIT Certifications",
+    "application_link": "https://xpecto.iitmandi.ac.in/",
+    "deadlines": {
+      "application": "2026-02-15T23:59:59Z"
+    },
+    "difficulty": "Medium",
+    "mode": "Hybrid",
+    "requirements": {
+      "skills": [
+        "Data Analytics",
+        "Web Dev",
+        "Creative Problem Solving"
+      ],
+      "eligibility": "Engineering students across India"
+    },
+    "intelligence": {
+      "why_it_matters": "Showcase your skills at a premier IIT technical fest; excellent for networking with IIT students.",
+      "next_action": "Check the Xpecto official site for problem statements released 48 hours early.",
+      "prep_tip": "IIT hackathons value unique approaches; don't just use standard templates."
+    }
+  },
+  {
+    "id": "hack-mlh-global",
+    "batch_reach": [
+      "2026"
+    ],
+    "type": "Hackathon",
+    "title": "MLH Global Hack Week",
+    "provider": "Major League Hacking",
+    "stipend_reward": "Swag + Global Recognition",
+    "application_link": "https://hack.mlh.io/",
+    "deadlines": {
+      "application": "2026-06-10T23:59:59Z"
+    },
+    "difficulty": "Medium",
+    "mode": "Remote",
+    "requirements": {
+      "skills": [
+        "Web Dev",
+        "API Integration"
+      ],
+      "eligibility": "Any student interested in software building"
+    },
+    "intelligence": {
+      "why_it_matters": "Perfect for building consistent portfolio projects and gaining global community visibility.",
+      "next_action": "Register on MLH portal and join the Discord server for team matching.",
+      "prep_tip": "Focus on 'Learning' tracks—they provide excellent starter code."
+    }
+  },
+  {
+    "id": "schol-reliance-2026",
+    "batch_reach": [
+      "2026",
+      "2027"
+    ],
+    "type": "Scholarship",
+    "title": "Reliance Foundation UG Scholarship",
+    "provider": "Reliance Foundation",
+    "stipend_reward": "₹2,00,000 + Alumni Network",
+    "application_link": "https://www.reliancefoundation.org/scholarships",
+    "deadlines": {
+      "application": "2026-10-31T23:59:59Z"
+    },
+    "difficulty": "Hard",
+    "mode": "Remote",
+    "requirements": {
+      "skills": [
+        "Merit",
+        "Social Leadership"
+      ],
+      "eligibility": "1st/2nd year UG students with high academic standing"
+    },
+    "intelligence": {
+      "why_it_matters": "One of India's most massive private scholarships; provides an elite network of scholars and leaders.",
+      "next_action": "Prepare for the aptitude test which covers logical reasoning and quantitative math.",
+      "prep_tip": "They look for 'Future Leaders'—highlight any volunteer work or student club leadership."
+    }
+  },
+  {
+    "id": "schol-dayanand-2026",
+    "batch_reach": [
+      "2026"
+    ],
+    "type": "Scholarship",
+    "title": "Swami Dayanand India Scholarship",
+    "provider": "Swami Dayanand Foundation",
+    "stipend_reward": "₹50,000 per year",
+    "application_link": "https://www.swamidayanand.org/",
+    "deadlines": {
+      "application": "2026-12-30T23:59:59Z"
+    },
+    "difficulty": "Medium",
+    "mode": "Remote",
+    "requirements": {
+      "skills": [
+        "Academic Excellence",
+        "Need-based"
+      ],
+      "eligibility": "UG students in Engineering/Medical with annual family income < 6L"
+    },
+    "intelligence": {
+      "why_it_matters": "Direct financial aid for tuition fees; high success rate for students fromTier-2/3 cities.",
+      "next_action": "Gather your income tax returns and college fee receipts for the application.",
+      "prep_tip": "A well-written 'Financial Need' essay is crucial. Be honest about your family's situation."
+    }
+  },
+  {
+    "id": "schol-gsoc-2026",
+    "batch_reach": [
+      "2026"
+    ],
+    "type": "Scholarship",
+    "title": "Google Summer of Code 2026",
+    "provider": "Google Open Source",
+    "stipend_reward": "$1500 - $3000 Stipend",
+    "application_link": "https://summerofcode.withgoogle.com/",
+    "deadlines": {
+      "application": "2026-03-25T23:59:59Z"
+    },
+    "difficulty": "Hard",
+    "mode": "Remote",
+    "requirements": {
+      "skills": [
+        "Git",
+        "Open Source",
+        "C++/Python"
+      ],
+      "eligibility": "Students 18+ years old enrolled in college"
+    },
+    "intelligence": {
+      "why_it_matters": "The gold standard for Open Source; extreme value for remote-job seekers.",
+      "next_action": "Join IRC of organizations you admire and start fixing 'Good First Issues'.",
+      "prep_tip": "Start 4 months early. Selection is 90% about your relationship with the community."
+    }
+  }
+]
